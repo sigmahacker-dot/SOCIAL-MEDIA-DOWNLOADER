@@ -1,0 +1,1 @@
+const nextConfig = { poweredByHeader: false, experimental: { serverComponentsExternalPackages: ["ytdl-core"] } }; export default nextConfig;
